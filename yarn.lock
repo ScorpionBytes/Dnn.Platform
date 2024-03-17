@@ -11316,8 +11316,8 @@ __metadata:
   linkType: hard
 
 "fbjs@npm:*":
-  version: 3.0.4
-  resolution: "fbjs@npm:3.0.4"
+  version: 3.0.5
+  resolution: "fbjs@npm:3.0.5"
   dependencies:
     cross-fetch: "npm:^3.1.5"
     fbjs-css-vars: "npm:^1.0.0"
@@ -11325,8 +11325,8 @@ __metadata:
     object-assign: "npm:^4.1.0"
     promise: "npm:^7.1.1"
     setimmediate: "npm:^1.0.5"
-    ua-parser-js: "npm:^0.7.30"
-  checksum: a1200e486bc6dabd2ba61842c3c3d6aa59bf45bd2c3c41e3bb4c04974cfb8021ed051b7669aa31a2c771f46d186b8f5e87072baf01eb7c3f2d85e4ef83bffde2
+    ua-parser-js: "npm:^1.0.35"
+  checksum: 71252595b00b06fb0475a295c74d81ada1cc499b7e11f2cde51fef04618affa568f5b7f4927f61720c23254b9144be28f8acb2086a5001cf65df8eec87c6ca5c
   languageName: node
   linkType: hard
 
@@ -23690,6 +23690,13 @@ __metadata:
   version: 0.7.35
   resolution: "ua-parser-js@npm:0.7.35"
   checksum: b6e99dc17599b04f2cd03c4de13593d8b300181402b65c95deeca6a507b96aef519e1d63fb8269af1532182ef41e61f0aca3dbae0f4add44521b5b836ccccc74
+  languageName: node
+  linkType: hard
+
+"ua-parser-js@npm:^1.0.35":
+  version: 1.0.37
+  resolution: "ua-parser-js@npm:1.0.37"
+  checksum: 56508f2428ebac64382c4d41da14189e5013e3e2a5f5918aff4bee3ba77df1f4eaad6f81f90c24999f1cf12cc1596764684497fec07e0ff5182ce9a323a8c05b
   languageName: node
   linkType: hard
 

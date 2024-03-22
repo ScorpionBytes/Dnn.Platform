@@ -11640,12 +11640,12 @@ __metadata:
   linkType: hard
 
 "follow-redirects@npm:^1.0.0, follow-redirects@npm:^1.15.0":
-  version: 1.15.4
-  resolution: "follow-redirects@npm:1.15.4"
+  version: 1.15.6
+  resolution: "follow-redirects@npm:1.15.6"
   peerDependenciesMeta:
     debug:
       optional: true
-  checksum: 2e8f5f259a6b02dfa8dc199e08431848a7c3beed32eb4c19945966164a52c89f07b86c3afcc32ebe4279cf0a960520e45a63013d6350309c5ec90133c5d9351a
+  checksum: 70c7612c4cab18e546e36b991bbf8009a1a41cf85354afe04b113d1117569abf760269409cb3eb842d9f7b03d62826687086b081c566ea7b1e6613cf29030bf7
   languageName: node
   linkType: hard
 
@@ -13391,9 +13391,9 @@ __metadata:
   linkType: hard
 
 "ip@npm:^1.1.5":
-  version: 1.1.5
-  resolution: "ip@npm:1.1.5"
-  checksum: 40a00572cf06b53f4c7b7fe6270a8427ef4c6c0820a380f9f1eb48a323eb09c7dbd16245b472cf5a2d083911d0deae4d712b6e6c88b346fa274e8ce07756a7d6
+  version: 1.1.9
+  resolution: "ip@npm:1.1.9"
+  checksum: 29261559b806f64929ada21e6d7e3bf4e67f2b43a4cb67500fdb72cead2e655ce97451a2e325eca3f404081c634ff5c3a68472814744b7f2148ddffc0fdfe66c
   languageName: node
   linkType: hard
 
@@ -15996,13 +15996,13 @@ __metadata:
   linkType: hard
 
 "merge-deep@npm:^3.0.2":
-  version: 3.0.2
-  resolution: "merge-deep@npm:3.0.2"
+  version: 3.0.3
+  resolution: "merge-deep@npm:3.0.3"
   dependencies:
     arr-union: "npm:^3.1.0"
     clone-deep: "npm:^0.2.4"
     kind-of: "npm:^3.0.2"
-  checksum: 8fcf648fa7bfb88db5a8388324016894118fda2d783de53a32b5955367e34fe9d0a6cb170a7cb635fc540ba9a0d05d441368855f62c2c22d220b78d1d377cf30
+  checksum: d2eb367b8300327c66a3e1e01eb06251f51b440bf5bfa5f0f8065ae95bf3af620d21fcd0ab2eb50e74f5119aac40ffd26c85e3bf82f79082e8757675f5885d3d
   languageName: node
   linkType: hard
 
@@ -25104,8 +25104,8 @@ __metadata:
   linkType: hard
 
 "ws@npm:^7.3.1":
-  version: 7.4.5
-  resolution: "ws@npm:7.4.5"
+  version: 7.5.9
+  resolution: "ws@npm:7.5.9"
   peerDependencies:
     bufferutil: ^4.0.1
     utf-8-validate: ^5.0.2
@@ -25114,7 +25114,7 @@ __metadata:
       optional: true
     utf-8-validate:
       optional: true
-  checksum: e85ec540bf54f0bf72157f0e9bf756d188be3b740e8ba4cfe47c2cf7310d0828f50073eb6be5a604406120cefbd978a7ac2e7f14c6caccfb1c4f60135a7e2dc0
+  checksum: 171e35012934bd8788150a7f46f963e50bac43a4dc524ee714c20f258693ac4d3ba2abadb00838fdac42a47af9e958c7ae7e6f4bc56db047ba897b8a2268cf7c
   languageName: node
   linkType: hard
 
